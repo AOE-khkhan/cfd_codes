@@ -3,28 +3,9 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 
-## Some repositories about Deep Learning:
-
-### Frameworks
-* [tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone.
-* [Keras](https://github.com/keras-team/keras) - Keras: Deep Learning for humans.
-* [tensorforce](https://github.com/tensorforce/tensorforce) - Tensorforce: a TensorFlow library for applied reinforcement learning.
 
 ### Learning Source
-* [MIT Deep Learning Book](https://github.com/janishar/mit-deep-learning-book-pdf) - MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville.
-* [Deep-Learning-Papers](https://github.com/loliverhennigh/Deep-Learning-Papers) - A list of deep learning papers and notes on them.
 * [Computational-Physics-and-Machine-Learning-Reading-List](https://github.com/loliverhennigh/Computational-Physics-and-Machine-Learning-Reading-List) - A list of papers relating Computational Physics and Machine Learning.
-
-
-### Tutorials
-* [Keras-Tutorials](https://github.com/xingkongliang/Keras-Tutorials) - Keras-Tutorials.
-* [Keras-Tutorials](https://github.com/tgjeon/Keras-Tutorials) - Simple tutorials using Keras Framework.
-* [Memory-Efficient-Autoencoder](https://github.com/loliverhennigh/Memory-Efficient-Autoencoder) - A repo looking at autoencoders that can be applied to extremely large 2D and 3D tensors.
-* [Convolutional-LSTM-in-Tensorflow](https://github.com/loliverhennigh/Convolutional-LSTM-in-Tensorflow) - 
-An implementation of convolutional lstms in tensorflow. The code is written in the same style as the basiclstmcell function in tensorflow.
-* [Variational-autoencoder-tricks-and-tips](https://github.com/loliverhennigh/Variational-autoencoder-tricks-and-tips) - 
-just a few trouble shooting tips I have found for training variational autoencoders. All code in tensorflow.
-* [All-Convnet-Autoencoder-Example](https://github.com/loliverhennigh/All-Convnet-Autoencoder-Example) - Just a simple use example of the conv2d_transpose function in TensorFlow. Its run on MNIST.
 
 
 ### Flow Control:
