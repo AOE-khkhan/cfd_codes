@@ -6,6 +6,7 @@
 
 ### Learning Source
 * [Computational-Physics-and-Machine-Learning-Reading-List](https://github.com/loliverhennigh/Computational-Physics-and-Machine-Learning-Reading-List) - A list of papers relating Computational Physics and Machine Learning.
+* [Physics-Based Deep Learning](https://github.com/thunil/Physics-Based-Deep-Learning) - Physics-Based Deep Learning.
 
 
 ### Flow Control:
@@ -21,9 +22,17 @@
 * [Reconstruction-of-Flows](https://github.com/harsha070/Reconstruction-of-Flows) - Reconstruction of Flows using Convolutional neural networks, 2019.
 * [LabelFree-DNN-Surrogate ](https://github.com/Jianxun-Wang/LabelFree-DNN-Surrogate) - Physics-Constrained Bayesian Neural Network for Fluid Flow Reconstruction with Sparse and Noisy Data, 2020.
 * [Super-resolution-reconstruction](http://www.seas.ucla.edu/fluidflow/codes.html) - Super-resolution reconstruction of turbulent flows with machine learning, JFM, 2019
+* [ML_ROM_Closures](https://github.com/Romit-Maulik/ML_ROM_Closures) - R. Maulik, A. Mohan, B. Lusch, S. Madireddy, P. Balaprakash, D. Livescu, Time-series learning of latent-space dynamics for reduced-order model closure.
 
 ### Physics Inform
 * [DeepXDE](https://github.com/lululxvi/deepxde) - Deep learning library for solving differential equations.
+* [DeepVIV](https://github.com/maziarraissi/DeepVIV) - Raissi, Maziar, Zhicheng Wang, Michael S. Triantafyllou, and George Em Karniadakis. "Deep Learning of Vortex Induced Vibrations." arXiv preprint arXiv:1808.08952 (2018).
+* [HPM](https://github.com/maziarraissi/HPM) - Raissi, Maziar, and George Em Karniadakis. "Hidden physics models: Machine learning of nonlinear partial differential equations." Journal of Computational Physics 357 (2018): 125-141.
+* [DeepHPMs](https://github.com/maziarraissi/DeepHPMs) - Raissi, Maziar. "Deep Hidden Physics Models: Deep Learning of Nonlinear Partial Differential Equations." arXiv preprint arXiv:1801.06637 (2018).
+* [PINNs](https://github.com/maziarraissi/PINNs) - Raissi, Maziar, Paris Perdikaris, and George E. Karniadakis. "Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations." Journal of Computational Physics 378 (2019): 686-707.
+* [FBSNNs](https://github.com/maziarraissi/FBSNNs) - Raissi, Maziar. "Forward-Backward Stochastic Neural Networks: Deep Learning of High-dimensional Partial Differential Equations." arXiv preprint arXiv:1804.07010 (2018).
+* [MultistepNNs](https://github.com/maziarraissi/MultistepNNs) - Raissi, Maziar, Paris Perdikaris, and George Em Karniadakis. "Multistep Neural Networks for Data-driven Discovery of Nonlinear Dynamical Systems." arXiv preprint arXiv:1801.01236 (2018).
+* []() - 
 
 ### Computational Fluid Dynamics (Continuum Methods)
 * [Cylinder](https://github.com/loliverhennigh/Computational-Fluid-Dynamics-Machine-Learning-Examples) - Computational Fluid-Dynamics Machine Learning Examples.
@@ -34,6 +43,9 @@
 * [PhiFlow](https://github.com/tum-pbs/PhiFlow) - Learning to Control PDEs with Differentiable Physics, Philipp Holl, Vladlen Koltun, Nils Thuerey, ICLR 2020.
 * [SmoothParticleNets](https://github.com/cschenck/SmoothParticleNets) - C. Schenck and D. Fox, "SPNets: Differentiable Fluid Dynamics for Deep Neural Networks," in Proceedings of the Second Conference on Robot Learning (CoRL), Zurich, Switzerland, 2018.
 * [Visual-Simulation-of-Smoke](https://github.com/daichi-ishida/Visual-Simulation-of-Smoke) - A CNN-based Flow Correction Method for Fast Preview
+* [THT-CNN](https://github.com/junhyuk6/THT-CNN) - Prediction of turbulent heat transfer using convolutional neural networks, Journal of fluid mechanics, 2020. 
+* [tempoGAN](https://github.com/thunil/tempoGAN) - tempoGAN: A Temporally Coherent, Volumetric GAN for Super-resolution Fluid Flow, 2018.
+* [mantaflow](https://github.com/thunil/mantaflow) - Mantaflow.
 
 
 ### Lattice Boltzmann Method
