@@ -31,6 +31,9 @@
 * [Steady-State-Flow-With-Neural-Nets](https://github.com/loliverhennigh/Steady-State-Flow-With-Neural-Nets) - A Tensorflow re-implementation of the paper Convolutional Neural Networks for Steady Flow Approximation.
 * [RKNN](https://github.com/snagcliffs/RKNN) - Deep learning of dynamics and signal noise decomposition with time-stepping constraints.
 * [Flow-Sculpter](https://github.com/loliverhennigh/Flow-Sculpter) - Neural Networks learning to create objects with desired flow properties.
+* [PhiFlow](https://github.com/tum-pbs/PhiFlow) - Learning to Control PDEs with Differentiable Physics, Philipp Holl, Vladlen Koltun, Nils Thuerey, ICLR 2020.
+* [SmoothParticleNets](https://github.com/cschenck/SmoothParticleNets) - C. Schenck and D. Fox, "SPNets: Differentiable Fluid Dynamics for Deep Neural Networks," in Proceedings of the Second Conference on Robot Learning (CoRL), Zurich, Switzerland, 2018.
+* [Visual-Simulation-of-Smoke](https://github.com/daichi-ishida/Visual-Simulation-of-Smoke) - A CNN-based Flow Correction Method for Fast Preview
 
 
 ### Lattice Boltzmann Method
