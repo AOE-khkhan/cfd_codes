@@ -16,13 +16,26 @@
 * [CS230_FinalReport](https://github.com/ancorso/CS230_FinalReport) - Final report for CS230 Project "Deep Reinforcement Learning for Unsteady Flow Control".
 
 ### Reduced Order Modeling
-* [LSTM_ROM_Arxiv](https://github.com/arvindmohan/LSTM_ROM_Arxiv) - A Deep Learning based Approach to Reduced Order Modeling for Turbulent Flow Control using LSTM Neural Networks.
-* [ROM_code](https://github.com/hugolui/ROM_code) - Construction of reduced-order models for fluid flows using deep feedforward neural networks. Journal of Fluid Mechanics, 2019.
-* [MD-CNN-AE](http://kflab.jp/en/index.php?18H03758) - Nonlinear mode decomposition with convolutional neural networks for fluid dynamics, Journal of Fluid Mechanics, 2020.
-* [Reconstruction-of-Flows](https://github.com/harsha070/Reconstruction-of-Flows) - Reconstruction of Flows using Convolutional neural networks, 2019.
-* [LabelFree-DNN-Surrogate ](https://github.com/Jianxun-Wang/LabelFree-DNN-Surrogate) - Physics-Constrained Bayesian Neural Network for Fluid Flow Reconstruction with Sparse and Noisy Data, 2020.
-* [Super-resolution-reconstruction](http://www.seas.ucla.edu/fluidflow/codes.html) - Super-resolution reconstruction of turbulent flows with machine learning, JFM, 2019
-* [ML_ROM_Closures](https://github.com/Romit-Maulik/ML_ROM_Closures) - R. Maulik, A. Mohan, B. Lusch, S. Madireddy, P. Balaprakash, D. Livescu, Time-series learning of latent-space dynamics for reduced-order model closure.
+* [TensorFlow](https://github.com/arvindmohan/LSTM_ROM_Arxiv) - A Deep Learning based Approach to Reduced Order Modeling for Turbulent Flow Control using LSTM Neural Networks, 2018.
+* [TensorFlow](https://github.com/hugolui/ROM_code) - Construction of reduced-order models for fluid flows using deep feedforward neural networks. Journal of Fluid Mechanics, 2019.
+* [TensorFlow](https://github.com/ashesh6810/RCESN_spatio_temporal) - Data-driven prediction of a multi-scale Lorenz 96 chaotic system using deep learning methods Reservoir computing, ANN, and RNN-LSTM, 2019.
+* [TensorFlow] (https://github.com/snagcliffs/RKNN) - Deep learning of dynamics and signal-noise decomposition with time-stepping constraints, 2019.
+* [TensorFlow](https://github.com/Romit-Maulik/ML_ROM_Closures) - Time-series learning of latent-space dynamics for reduced-order model closure, 2019.
+* [TensorFlow](http://www.seas.ucla.edu/fluidflow/codes.html) - Super-resolution reconstruction of turbulent flows with machine learning, JFM, 2019.
+* [TensorFlow] (https://github.com/rmjcs2020/NATSurrogates) - Non-Autoregressive Time-Series Methods for Stable Parametric Reduced-Order Models, 2020.
+* [TensorFlow](https://github.com/Romit-Maulik/Probabilistic_ML_Fluids) - Probabilistic neural networks for fluid flow model-order reduction and data recovery, 2020.
+* [TensorFlow] (https://github.com/kazutotess/ML-ROM_Various_Shapes) - Machine-learning-based reduced-order modeling for unsteady flows around bluff bodies of various shapes, 2020.
+* [TensorFlow](https://github.com/ashesh6810/Data-driven-super-parametrization-with-deep-learning) - Data-driven super-parameterization using deep learning Experimentation with multi-scale Lorenz 96 systems and transfer-learning, 2020.
+* [TensorFlow](https://github.com/Shady-Ahmed/UROM) - A long short-term memory embedding for hybrid uplifted reduced order models, 2020.
+* [TensorFlow](http://kflab.jp/en/index.php?18H03758) - Nonlinear mode decomposition with convolutional neural networks for fluid dynamics, Journal of Fluid Mechanics, 2020.
+* [Pytorch](https://github.com/harsha070/Reconstruction-of-Flows) - Reconstruction of Flows using Convolutional neural networks, 2019.
+* [Pytorch] (https://github.com/cics-nd/ar-pde-cnn) - Modeling the Dynamics of PDE Systems with Physics-Constrained Deep Auto-Regressive Networks, 2019.
+* [Pytorch] (https://github.com/cics-nd/pde-surrogate) - Physics-Constrained Surrogates without Labeled Data, 2019.
+* [Pytorch](https://github.com/Jianxun-Wang/LabelFree-DNN-Surrogate) - Physics-Constrained Bayesian Neural Network for Fluid Flow Reconstruction with Sparse and Noisy Data, 2020.
+* [Pytorch](https://github.com/stathius/wave_propagation) - Comparing Recurrent and Convolutional Neural Networks for Predicting Wave Propagation, 2020.
+* [MATLAB](https://github.com/Mohebujjaman/DDF-ROM) - Data-Driven Filtered Reduced Order Modeling of Fluid Flows, 2018.
+* [MATLAB](https://github.com/StefanoPagani/LocalROM) - A comprehensive deep learning-based approach to reduced order modeling of nonlinear time-dependent parametrized PDEs, 2019.
+* [MATLAB](https://github.com/mendible/wave_decomposition) - Dimensionality reduction and reduced-order modeling for traveling wave physics, 2020.
 
 ### Physics Inform
 * [DeepXDE](https://github.com/lululxvi/deepxde) - Deep learning library for solving differential equations.
@@ -32,7 +45,6 @@
 * [PINNs](https://github.com/maziarraissi/PINNs) - Raissi, Maziar, Paris Perdikaris, and George E. Karniadakis. "Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations." Journal of Computational Physics 378 (2019): 686-707.
 * [FBSNNs](https://github.com/maziarraissi/FBSNNs) - Raissi, Maziar. "Forward-Backward Stochastic Neural Networks: Deep Learning of High-dimensional Partial Differential Equations." arXiv preprint arXiv:1804.07010 (2018).
 * [MultistepNNs](https://github.com/maziarraissi/MultistepNNs) - Raissi, Maziar, Paris Perdikaris, and George Em Karniadakis. "Multistep Neural Networks for Data-driven Discovery of Nonlinear Dynamical Systems." arXiv preprint arXiv:1801.01236 (2018).
-* []() - 
 
 ### Computational Fluid Dynamics (Continuum Methods)
 * [Cylinder](https://github.com/loliverhennigh/Computational-Fluid-Dynamics-Machine-Learning-Examples) - Computational Fluid-Dynamics Machine Learning Examples.
@@ -69,14 +81,3 @@ turbulence model neural network with data processing, include data cleaning and 
 
 ### Aerospace
 * [Turbulence](https://github.com/sagnibak/Turbulence) - This repository contains code to make a neural network that determines if an aircraft is flying through very turbulent, somewhat turbulent, or calm weather based on accelerometer readings. This also includes datasets and unlabeled data that requires processing to be used as datasets. The neural networks are written in Python, using Keras with Te …
-
-
-
-
-
-
-
-
-
-
-
