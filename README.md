@@ -19,7 +19,7 @@
 * [TensorFlow](https://github.com/arvindmohan/LSTM_ROM_Arxiv) - A Deep Learning based Approach to Reduced Order Modeling for Turbulent Flow Control using LSTM Neural Networks, 2018.
 * [TensorFlow](https://github.com/hugolui/ROM_code) - Construction of reduced-order models for fluid flows using deep feedforward neural networks. Journal of Fluid Mechanics, 2019.
 * [TensorFlow](https://github.com/ashesh6810/RCESN_spatio_temporal) - Data-driven prediction of a multi-scale Lorenz 96 chaotic system using deep learning methods Reservoir computing, ANN, and RNN-LSTM, 2019.
-* [TensorFlow] (https://github.com/snagcliffs/RKNN) - Deep learning of dynamics and signal-noise decomposition with time-stepping constraints, 2019.
+* [TensorFlow](https://github.com/snagcliffs/RKNN) - Deep learning of dynamics and signal-noise decomposition with time-stepping constraints, 2019.
 * [TensorFlow](https://github.com/Romit-Maulik/ML_ROM_Closures) - Time-series learning of latent-space dynamics for reduced-order model closure, 2019.
 * [TensorFlow](http://www.seas.ucla.edu/fluidflow/codes.html) - Super-resolution reconstruction of turbulent flows with machine learning, JFM, 2019.
 * [TensorFlow] (https://github.com/rmjcs2020/NATSurrogates) - Non-Autoregressive Time-Series Methods for Stable Parametric Reduced-Order Models, 2020.
