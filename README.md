@@ -22,15 +22,15 @@
 * [TensorFlow](https://github.com/snagcliffs/RKNN) - Deep learning of dynamics and signal-noise decomposition with time-stepping constraints, 2019.
 * [TensorFlow](https://github.com/Romit-Maulik/ML_ROM_Closures) - Time-series learning of latent-space dynamics for reduced-order model closure, 2019.
 * [TensorFlow](http://www.seas.ucla.edu/fluidflow/codes.html) - Super-resolution reconstruction of turbulent flows with machine learning, JFM, 2019.
-* [TensorFlow] (https://github.com/rmjcs2020/NATSurrogates) - Non-Autoregressive Time-Series Methods for Stable Parametric Reduced-Order Models, 2020.
+* [TensorFlow](https://github.com/rmjcs2020/NATSurrogates) - Non-Autoregressive Time-Series Methods for Stable Parametric Reduced-Order Models, 2020.
 * [TensorFlow](https://github.com/Romit-Maulik/Probabilistic_ML_Fluids) - Probabilistic neural networks for fluid flow model-order reduction and data recovery, 2020.
-* [TensorFlow] (https://github.com/kazutotess/ML-ROM_Various_Shapes) - Machine-learning-based reduced-order modeling for unsteady flows around bluff bodies of various shapes, 2020.
+* [TensorFlow](https://github.com/kazutotess/ML-ROM_Various_Shapes) - Machine-learning-based reduced-order modeling for unsteady flows around bluff bodies of various shapes, 2020.
 * [TensorFlow](https://github.com/ashesh6810/Data-driven-super-parametrization-with-deep-learning) - Data-driven super-parameterization using deep learning Experimentation with multi-scale Lorenz 96 systems and transfer-learning, 2020.
 * [TensorFlow](https://github.com/Shady-Ahmed/UROM) - A long short-term memory embedding for hybrid uplifted reduced order models, 2020.
 * [TensorFlow](http://kflab.jp/en/index.php?18H03758) - Nonlinear mode decomposition with convolutional neural networks for fluid dynamics, Journal of Fluid Mechanics, 2020.
 * [Pytorch](https://github.com/harsha070/Reconstruction-of-Flows) - Reconstruction of Flows using Convolutional neural networks, 2019.
-* [Pytorch] (https://github.com/cics-nd/ar-pde-cnn) - Modeling the Dynamics of PDE Systems with Physics-Constrained Deep Auto-Regressive Networks, 2019.
-* [Pytorch] (https://github.com/cics-nd/pde-surrogate) - Physics-Constrained Surrogates without Labeled Data, 2019.
+* [Pytorch](https://github.com/cics-nd/ar-pde-cnn) - Modeling the Dynamics of PDE Systems with Physics-Constrained Deep Auto-Regressive Networks, 2019.
+* [Pytorch](https://github.com/cics-nd/pde-surrogate) - Physics-Constrained Surrogates without Labeled Data, 2019.
 * [Pytorch](https://github.com/Jianxun-Wang/LabelFree-DNN-Surrogate) - Physics-Constrained Bayesian Neural Network for Fluid Flow Reconstruction with Sparse and Noisy Data, 2020.
 * [Pytorch](https://github.com/stathius/wave_propagation) - Comparing Recurrent and Convolutional Neural Networks for Predicting Wave Propagation, 2020.
 * [MATLAB](https://github.com/Mohebujjaman/DDF-ROM) - Data-Driven Filtered Reduced Order Modeling of Fluid Flows, 2018.
