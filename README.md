@@ -10,9 +10,9 @@
 
 
 ### Flow Control:
-* [Cylinder2DFlowControlWithRL](https://github.com/jerabaul29/Cylinder2DFlowControlDRL) - Artificial neural networks trained through deep reinforcement learning discover control strategies for active flow control, Journal of Fluid Mechanics, 2019.
-* [Cylinder2DFlowControlDRLParallel](https://github.com/jerabaul29/Cylinder2DFlowControlDRLParallel) - Accelerating Deep Reinforcement Learning strategies of Flow Control through a multi-environment approach", Rabault and Kuhnle, Physics of Fluids, 2019.
-* [Deep Flow Control](https://github.com/sisl/deep_flow_control) - Source code for "Deep Dynamical Modeling and Control of Unsteady Fluid Flows" from NIPS 2018.
+* [TensorFlow](https://github.com/jerabaul29/Cylinder2DFlowControlDRL) - Artificial neural networks trained through deep reinforcement learning discover control strategies for active flow control, 2019.
+* [TensorFlow](https://github.com/jerabaul29/Cylinder2DFlowControlDRLParallel) - Accelerating Deep Reinforcement Learning strategies of Flow Control through a multi-environment approach, 2019.
+* [TensorFlow](https://github.com/sisl/deep_flow_control) - Deep Dynamical Modeling and Control of Unsteady Fluid Flows, 2018.
 * [CS230_FinalReport](https://github.com/ancorso/CS230_FinalReport) - Final report for CS230 Project "Deep Reinforcement Learning for Unsteady Flow Control".
 
 ### Reduced Order Modeling
@@ -28,6 +28,7 @@
 * [TensorFlow](https://github.com/ashesh6810/Data-driven-super-parametrization-with-deep-learning) - Data-driven super-parameterization using deep learning Experimentation with multi-scale Lorenz 96 systems and transfer-learning, 2020.
 * [TensorFlow](https://github.com/Shady-Ahmed/UROM) - A long short-term memory embedding for hybrid uplifted reduced order models, 2020.
 * [TensorFlow](http://kflab.jp/en/index.php?18H03758) - Nonlinear mode decomposition with convolutional neural networks for fluid dynamics, Journal of Fluid Mechanics, 2020.
+* [TensorFlow](http://kflab.jp/en/index.php?18H03758) - Convolutional neural network based hierarchical autoencoder for nonlinear mode decomposition of fluid field data, 2020.
 * [Pytorch](https://github.com/harsha070/Reconstruction-of-Flows) - Reconstruction of Flows using Convolutional neural networks, 2019.
 * [Pytorch](https://github.com/cics-nd/ar-pde-cnn) - Modeling the Dynamics of PDE Systems with Physics-Constrained Deep Auto-Regressive Networks, 2019.
 * [Pytorch](https://github.com/cics-nd/pde-surrogate) - Physics-Constrained Surrogates without Labeled Data, 2019.
@@ -53,29 +54,26 @@
 * [TensorFlow](https://github.com/thunil/mantaflow) - Mantaflow.
 * [TensorFlow](https://github.com/loliverhennigh/Steady-State-Flow-With-Neural-Nets) - A Tensorflow re-implementation of the paper Convolutional Neural Networks for Steady Flow Approximation.
 * [TensorFlow](https://github.com/thunil/tempoGAN) - tempoGAN: A Temporally Coherent, Volumetric GAN for Super-resolution Fluid Flow, 2018.
-* [TensorFlow](https://github.com/junhyuk6/THT-CNN) - Prediction of turbulent heat transfer using convolutional neural networks, Journal of fluid mechanics, 2020. 
-* [Pytorch](https://github.com/cschenck/SmoothParticleNets) - C. Schenck and D. Fox, "SPNets: Differentiable Fluid Dynamics for Deep Neural Networks," in Proceedings of the Second Conference on Robot Learning (CoRL), Zurich, Switzerland, 2018.
+* [TensorFlow](https://github.com/junhyuk6/THT-CNN) - Prediction of turbulent heat transfer using convolutional neural networks, 2020. 
+* [Pytorch](https://github.com/cschenck/SmoothParticleNets) - SPNets: Differentiable Fluid Dynamics for Deep Neural Networks, 2018.
 * [Visual-Simulation-of-Smoke](https://github.com/daichi-ishida/Visual-Simulation-of-Smoke) - A CNN-based Flow Correction Method for Fast Preview
 
 
 ### Lattice Boltzmann Method
-* [Phy-Net](https://github.com/loliverhennigh/Phy-Net) - Lat-Net: Compressing Lattice Boltzmann Flow Simulations using Deep Neural Networks.
-* [Lattice-Boltzmann-fluid-flow-in-Tensorflow](https://github.com/loliverhennigh/Lattice-Boltzmann-fluid-flow-in-Tensorflow) - A Lattice Boltzmann fluid flow simulation written in Tensorflow.
-* [latnet](https://github.com/loliverhennigh/latnet) - Neural Network Based Lattice Boltzmann solver.
+* [TensorFlow](https://github.com/loliverhennigh/Phy-Net) - Lat-Net: Compressing Lattice Boltzmann Flow Simulations using Deep Neural Networks, 2017.
+* [TensorFlow](https://github.com/loliverhennigh/Lattice-Boltzmann-fluid-flow-in-Tensorflow) - A Lattice Boltzmann fluid flow simulation written in Tensorflow.
+* [TensorFlow](https://github.com/loliverhennigh/latnet) - Neural Network Based Lattice Boltzmann solver.
 
 
 ### Turbulence Modeling
-* [turbulence_model_neural_network_with_data_processing](https://github.com/undersunshine1020/turbulence_model_neural_network_with_data_processing) - 
-turbulence model neural network with data processing, include data cleaning and data post-processing.
+* [TensorFlow](https://github.com/undersunshine1020/turbulence_model_neural_network_with_data_processing) - turbulence model neural network with data processing, include data cleaning and data post-processing.
+* [Theano](https://github.com/tbnn/tbnn) - Reynolds averaged turbulence modelling using deep neural networks with embedded invariance, 2016.
 * [machine-learning-turbulence ](https://github.com/fluid126/machine-learning-turbulence) - Machine Learning in Turbulence Modeling.
-* [tbnn](https://github.com/tbnn/tbnn) - Reynolds averaged turbulence modelling using deep neural networks with embedded invariance, Journal of Fluid Mechanics, 2016.
-* [DNNLESMODEL](https://github.com/itsanikesh/DNNLESMODEL) - This repository contains the python code, weight and bias matrices for the INU model.
-* [Deep-Flow-Prediction](https://github.com/thunil/Deep-Flow-Prediction) - Deep Learning Methods for Reynolds-Averaged Navier-Stokes Simulations of Airfoil Flows
 
 
 ### Aerodynamics
-* [CNN-for-Airfoil](https://github.com/ziliHarvey/CNN-for-Airfoil) - CNN for airfoil lift-to-drag-ratio prediction.
-
+* [Pytorch](https://github.com/ziliHarvey/CNN-for-Airfoil) - CNN for airfoil lift-to-drag-ratio prediction.
+* [Pytorch](https://github.com/thunil/Deep-Flow-Prediction) - Deep Learning Methods for Reynolds-Averaged Navier-Stokes Simulations of Airfoil Flows
 
 ### Aerospace
 * [Turbulence](https://github.com/sagnibak/Turbulence) - This repository contains code to make a neural network that determines if an aircraft is flying through very turbulent, somewhat turbulent, or calm weather based on accelerometer readings. This also includes datasets and unlabeled data that requires processing to be used as datasets. The neural networks are written in Python, using Keras with Te …
