@@ -22,6 +22,7 @@
 * [TensorFlow](https://github.com/snagcliffs/RKNN) - Deep learning of dynamics and signal-noise decomposition with time-stepping constraints, 2019.
 * [TensorFlow](https://github.com/Romit-Maulik/ML_ROM_Closures) - Time-series learning of latent-space dynamics for reduced-order model closure, 2019.
 * [TensorFlow](http://www.seas.ucla.edu/fluidflow/codes.html) - Super-resolution reconstruction of turbulent flows with machine learning, JFM, 2019.
+* [TensorFlow](https://github.com/rgp62/gmls-nets) - GMLS-Nets A framework for learning from unstructured data, 2019
 * [TensorFlow](https://github.com/rmjcs2020/NATSurrogates) - Non-Autoregressive Time-Series Methods for Stable Parametric Reduced-Order Models, 2020.
 * [TensorFlow](https://github.com/Romit-Maulik/Probabilistic_ML_Fluids) - Probabilistic neural networks for fluid flow model-order reduction and data recovery, 2020.
 * [TensorFlow](https://github.com/kazutotess/ML-ROM_Various_Shapes) - Machine-learning-based reduced-order modeling for unsteady flows around bluff bodies of various shapes, 2020.
@@ -29,9 +30,11 @@
 * [TensorFlow](https://github.com/Shady-Ahmed/UROM) - A long short-term memory embedding for hybrid uplifted reduced order models, 2020.
 * [TensorFlow](http://kflab.jp/en/index.php?18H03758) - Nonlinear mode decomposition with convolutional neural networks for fluid dynamics, Journal of Fluid Mechanics, 2020.
 * [TensorFlow](http://kflab.jp/en/index.php?18H03758) - Convolutional neural network based hierarchical autoencoder for nonlinear mode decomposition of fluid field data, 2020.
+* [TensorFlow](https://github.com/cwq2016/POD-PINN) - Physics-informed machine learning for reduced-order modeling of nonlinear problems, 2020.
 * [Pytorch](https://github.com/harsha070/Reconstruction-of-Flows) - Reconstruction of Flows using Convolutional neural networks, 2019.
 * [Pytorch](https://github.com/cics-nd/ar-pde-cnn) - Modeling the Dynamics of PDE Systems with Physics-Constrained Deep Auto-Regressive Networks, 2019.
 * [Pytorch](https://github.com/cics-nd/pde-surrogate) - Physics-Constrained Surrogates without Labeled Data, 2019.
+* [Pytorch](https://github.com/atzberg/gmls-nets) - GMLS-Nets A framework for learning from unstructured data, 2019
 * [Pytorch](https://github.com/Jianxun-Wang/LabelFree-DNN-Surrogate) - Physics-Constrained Bayesian Neural Network for Fluid Flow Reconstruction with Sparse and Noisy Data, 2020.
 * [Pytorch](https://github.com/stathius/wave_propagation) - Comparing Recurrent and Convolutional Neural Networks for Predicting Wave Propagation, 2020.
 * [MATLAB](https://github.com/Mohebujjaman/DDF-ROM) - Data-Driven Filtered Reduced Order Modeling of Fluid Flows, 2018.
@@ -47,6 +50,9 @@
 * [TensorFlow](https://github.com/maziarraissi/MultistepNNs) - Multistep Neural Networks for Data-driven Discovery of Nonlinear Dynamical Systems, 2018.
 * [TensorFlow](https://github.com/maziarraissi/PINNs) - Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations, 2019
 * [TensorFlow](https://github.com/tum-pbs/PhiFlow) - Learning to Control PDEs with Differentiable Physics, 2020.
+* [TensorFlow](https://github.com/sciann/sciann-applications) - SciANN A Keras-Tensorflow wrapper for scientific computations and physics-informed deep learning using artificial neural networks, 2020.
+* [Pytorch](https://github.com/ZichaoLong/PDE-Net/tree/PDE-Net) - PDE-Net: Learning PDEs from Data, 2018.
+* [Pytorch](https://github.com/ZichaoLong/PDE-Net/tree/PDE-Net-2.0) - PDE-Net 2.0: Learning PDEs from data with a numeric-symbolic hybrid deep network, 2019.
 
 ### Computational Fluid Dynamics (Continuum Methods)
 * [TensorFlow](https://github.com/loliverhennigh/Computational-Fluid-Dynamics-Machine-Learning-Examples) - Computational Fluid-Dynamics Machine Learning Examples.
@@ -70,6 +76,9 @@
 * [Theano](https://github.com/tbnn/tbnn) - Reynolds averaged turbulence modelling using deep neural networks with embedded invariance, 2016.
 * [machine-learning-turbulence ](https://github.com/fluid126/machine-learning-turbulence) - Machine Learning in Turbulence Modeling.
 
+
+### Uncertainty Quantification
+* [TensorFlow](https://github.com/congriUQ/physics_aware_surrogate) - A physics-aware, probabilistic machine learning framework for coarse-graining high-dimensional systems in the Small Data regime, 2019.
 
 ### Aerodynamics
 * [Pytorch](https://github.com/ziliHarvey/CNN-for-Airfoil) - CNN for airfoil lift-to-drag-ratio prediction.
