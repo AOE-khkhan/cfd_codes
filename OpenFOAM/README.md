@@ -33,6 +33,11 @@
 ## Actuator Method
 * [turbinesFoam](https://github.com/turbinesFoam/turbinesFoam) - Actuator line modeling of vertical-axis turbines, 2016.
 
+
 ## Tutorials:
 
+### snappyHexMesh
 * [pipeflow_snappyHexMesh](https://github.com/theodoreOnzGit/pipeflow_snappyHexMesh) - OpenFoam pipeflow geometry generated using snappyHexMesh
+
+### Dynamic Mesh
+* [VAWTCleanCase](https://github.com/h7ris/VAWTCleanCase) - Vertical-Axis Wind Turbine.
