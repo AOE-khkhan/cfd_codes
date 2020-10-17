@@ -20,6 +20,7 @@
 * [Python](https://github.com/dynamicslab/modified-SINDy) - Automatic Differentiation to Simultaneously Identify Nonlinear Dynamics and Extract Noise Probability Distributions from Data, 2020.
 * [Python](https://github.com/kpchamp/SINDySR3) - A unified sparse optimization framework to learn parsimonious physics-informed models from data, 2020.
 * [Python](https://github.com/dynamicslab/langevin-regression) - Nonlinear stochastic modeling with Langevin regression, 2020.
+* [Python](https://github.com/mathLab/PyDMD) - PyDMD: Python Dynamic Mode Decomposition, 2018.
 
 
 ## Cluster Based Reduced Order Modeling
