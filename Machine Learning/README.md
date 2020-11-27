@@ -31,6 +31,7 @@
 * [TensorFlow](http://kflab.jp/en/index.php?18H03758) - Nonlinear mode decomposition with convolutional neural networks for fluid dynamics, Journal of Fluid Mechanics, 2020.
 * [TensorFlow](http://kflab.jp/en/index.php?18H03758) - Convolutional neural network based hierarchical autoencoder for nonlinear mode decomposition of fluid field data, 2020.
 * [TensorFlow](https://github.com/cwq2016/POD-PINN) - Physics-informed machine learning for reduced-order modeling of nonlinear problems, 2020.
+* [TensorFlow](https://github.com/rmojgani/PhysicsAwareAE) - Physics-aware registration based auto-encoder for convection dominated PDEs, 2020.
 * [Pytorch](https://github.com/harsha070/Reconstruction-of-Flows) - Reconstruction of Flows using Convolutional neural networks, 2019.
 * [Pytorch](https://github.com/cics-nd/ar-pde-cnn) - Modeling the Dynamics of PDE Systems with Physics-Constrained Deep Auto-Regressive Networks, 2019.
 * [Pytorch](https://github.com/cics-nd/pde-surrogate) - Physics-Constrained Surrogates without Labeled Data, 2019.
