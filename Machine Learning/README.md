@@ -32,6 +32,7 @@
 * [TensorFlow](http://kflab.jp/en/index.php?18H03758) - Convolutional neural network based hierarchical autoencoder for nonlinear mode decomposition of fluid field data, 2020.
 * [TensorFlow](https://github.com/cwq2016/POD-PINN) - Physics-informed machine learning for reduced-order modeling of nonlinear problems, 2020.
 * [TensorFlow](https://github.com/rmojgani/PhysicsAwareAE) - Physics-aware registration based auto-encoder for convection dominated PDEs, 2020.
+* [TensorFlow](https://github.com/Romit-Maulik/CAE_LSTM_ROMS) - Reduced-order modeling of advection-dominated systems with recurrent neural networks and convolutional autoencoder, 2020.
 * [Pytorch](https://github.com/harsha070/Reconstruction-of-Flows) - Reconstruction of Flows using Convolutional neural networks, 2019.
 * [Pytorch](https://github.com/cics-nd/ar-pde-cnn) - Modeling the Dynamics of PDE Systems with Physics-Constrained Deep Auto-Regressive Networks, 2019.
 * [Pytorch](https://github.com/cics-nd/pde-surrogate) - Physics-Constrained Surrogates without Labeled Data, 2019.
@@ -61,6 +62,7 @@
 * [TensorFlow](https://github.com/thunil/mantaflow) - Mantaflow.
 * [TensorFlow](https://github.com/loliverhennigh/Steady-State-Flow-With-Neural-Nets) - A Tensorflow re-implementation of the paper Convolutional Neural Networks for Steady Flow Approximation.
 * [TensorFlow](https://github.com/thunil/tempoGAN) - tempoGAN: A Temporally Coherent, Volumetric GAN for Super-resolution Fluid Flow, 2018.
+* [TensorFlow](https://github.com/LaureZanna/DeepEddy) - Applications of Deep Learning to Ocean Data Inference and Sub-Grid Parameterisation, 2019.
 * [TensorFlow](https://github.com/junhyuk6/THT-CNN) - Prediction of turbulent heat transfer using convolutional neural networks, 2020. 
 * [Pytorch](https://github.com/cschenck/SmoothParticleNets) - SPNets: Differentiable Fluid Dynamics for Deep Neural Networks, 2018.
 * [Visual-Simulation-of-Smoke](https://github.com/daichi-ishida/Visual-Simulation-of-Smoke) - A CNN-based Flow Correction Method for Fast Preview
