@@ -34,6 +34,10 @@
 * [turbinesFoam](https://github.com/turbinesFoam/turbinesFoam) - Actuator line modeling of vertical-axis turbines, 2016.
 
 
+## Discontinuous Galerkin Method
+* [HopeFOAM](https://github.com/HopeFOAM/HopeFOAM) - High Order Parallel Extensible CFD software.
+
+
 ## Tutorials:
 
 ### snappyHexMesh
@@ -41,3 +45,6 @@
 
 ### Dynamic Mesh
 * [VAWTCleanCase](https://github.com/h7ris/VAWTCleanCase) - Vertical-Axis Wind Turbine.
+
+### Programming
+* [BasicOpenFOAMProgrammingTutorials](https://github.com/UnnamedMoose/BasicOpenFOAMProgrammingTutorials) - set of OpenFOAM® programming tutorials!

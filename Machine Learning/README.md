@@ -33,12 +33,14 @@
 * [TensorFlow](https://github.com/cwq2016/POD-PINN) - Physics-informed machine learning for reduced-order modeling of nonlinear problems, 2020.
 * [TensorFlow](https://github.com/rmojgani/PhysicsAwareAE) - Physics-aware registration based auto-encoder for convection dominated PDEs, 2020.
 * [TensorFlow](https://github.com/Romit-Maulik/CAE_LSTM_ROMS) - Reduced-order modeling of advection-dominated systems with recurrent neural networks and convolutional autoencoder, 2020.
+* [TensorFlow](https://github.com/kfukami/Voronoi-CNN) - Voronoi-CNN
 * [Pytorch](https://github.com/harsha070/Reconstruction-of-Flows) - Reconstruction of Flows using Convolutional neural networks, 2019.
 * [Pytorch](https://github.com/cics-nd/ar-pde-cnn) - Modeling the Dynamics of PDE Systems with Physics-Constrained Deep Auto-Regressive Networks, 2019.
 * [Pytorch](https://github.com/cics-nd/pde-surrogate) - Physics-Constrained Surrogates without Labeled Data, 2019.
 * [Pytorch](https://github.com/atzberg/gmls-nets) - GMLS-Nets A framework for learning from unstructured data, 2019
 * [Pytorch](https://github.com/Jianxun-Wang/LabelFree-DNN-Surrogate) - Physics-Constrained Bayesian Neural Network for Fluid Flow Reconstruction with Sparse and Noisy Data, 2020.
 * [Pytorch](https://github.com/stathius/wave_propagation) - Comparing Recurrent and Convolutional Neural Networks for Predicting Wave Propagation, 2020.
+* [Pytorch](https://github.com/zabaras/deep-turbulence) - Multi-fidelity Generative Deep Learning Turbulent Flows, 2020.
 * [MATLAB](https://github.com/Mohebujjaman/DDF-ROM) - Data-Driven Filtered Reduced Order Modeling of Fluid Flows, 2018.
 * [MATLAB](https://github.com/StefanoPagani/LocalROM) - A comprehensive deep learning-based approach to reduced order modeling of nonlinear time-dependent parametrized PDEs, 2019.
 * [MATLAB](https://github.com/mendible/wave_decomposition) - Dimensionality reduction and reduced-order modeling for traveling wave physics, 2020.
